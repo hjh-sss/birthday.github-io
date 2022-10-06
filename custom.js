@@ -1,3 +1,4 @@
+//开始
 $(function () {
     let dom = document.createElement("span");
     config.texts.forEach(function (item) {
