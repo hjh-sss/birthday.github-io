@@ -8,7 +8,7 @@ var config = {
         "愿你是清新的海风，鼓起白色的船帆",
     ],
     imgs: {
-        "心爱的小可爱": "./imgs/touxiang.jpg",
+        "今天的寿星": "./imgs/touxiang.jpg",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
